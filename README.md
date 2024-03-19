@@ -1,6 +1,7 @@
 ## Perfil de Lucas Muniz Teles 🙂
 
-<a><img align="center" alt="Lucas-HTML" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>(https://www.linkedin.com/in/lucas-muniz-1b001a218/)</a>
+
+[![LinkedIn](www.linkedin.com/in/lucas-muniz-1b001a218)
 
 
 [![lucasmunizt GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasmunizt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
