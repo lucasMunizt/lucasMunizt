@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://github.com/lucasmunizt">
 </div>
-<div style="display: flex"><br>
+<div style="display: flex; justify-content: space-around;"><br>
 <img align="center" alt="Lucas-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="Lucas-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="Lucas-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
