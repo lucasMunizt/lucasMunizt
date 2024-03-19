@@ -5,12 +5,13 @@
 
 
 ![lucasmunizt GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasmunizt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmunizt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 
 <body>
-<div align="center" style="display:flex; justify-content: space-between;">
+<div align="center">
   <a href="https://github.com/lucasmunizt">
 </div>
 <div style="display:flex; justify-content: space-between;"><br>
