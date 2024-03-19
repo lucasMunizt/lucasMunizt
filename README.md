@@ -3,7 +3,7 @@
 <img align="center" alt="Lucas-HTML" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 (https://www.linkedin.com/in/lucas-muniz-1b001a218/)
 
-[![lucasmunizt GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasmunizt&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![TiagoSM GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasmunizt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmunizt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
