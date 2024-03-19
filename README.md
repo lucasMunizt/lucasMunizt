@@ -10,7 +10,7 @@
 ## Tecnologias
 
 <body>
-<div align="center">
+<div align="center" style="display:flex; justify-content: space-between;">
   <a href="https://github.com/lucasmunizt">
 </div>
 <div style="display:flex; justify-content: space-between;"><br>
